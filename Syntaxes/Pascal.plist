@@ -6,6 +6,9 @@
 	<array>
 		<string>pas</string>
 		<string>p</string>
+		<string>pp</string>
+		<string>lpr</string>
+		<string>inc</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~P</string>
